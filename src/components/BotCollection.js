@@ -1,6 +1,5 @@
 import React from "react";
 import { useGlobalBotContext } from "../context/botContext";
-import BotItem from "./BotItem";
 
 function BotCollection() {
   // !access value props from BotProvider
